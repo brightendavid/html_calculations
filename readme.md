@@ -15,3 +15,7 @@
 
 * calculator.html 为简单的加法器
 * lglr.html 为拉格朗日插值法生成器
+
+## 拉格朗日
+
+<img src="./649.png"/>
